@@ -24,3 +24,5 @@ def left_click(event):
 
 root.bind('<Button-1>', left_click)
 root.mainloop()
+
+print(123)
